@@ -1,7 +1,7 @@
 
 <h1>Chat Startup</h1>
     <p>Hello everyone I am Shaish Guni.Founder Owner CEO Full Stack Developer Tech Group.</p>
-    <p>I really don't have a lot of things to say. Its  basically a project where I made a demo UI and idea for my tech app.Which is going to in internet soon. This can be used for educational propose not production propose. </p>
+    <p>I really don't have a lot of things to say. Its  basically a project where I made a demo UI and idea for my tech app.Which is going to in internet soon. This can be used for educational propose not for production propose. </p>
 
 <p>Do the following
 <ul>
