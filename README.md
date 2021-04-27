@@ -11,7 +11,7 @@
 <li>cd djangochat<br></li>
 <li>python manage.py runserver</li>
 <li>and go to your browser</li>
-and got to <a href="http://127.0.0.1:8000/" target="_blank">http://127.0.0.1:8000/</a>.
+and got to <li><a href="http://127.0.0.1:8000/" target="_blank">http://127.0.0.1:8000/</a></li>.
 <ul>
 
 </p>
