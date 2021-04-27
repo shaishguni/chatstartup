@@ -4,13 +4,14 @@
     <p>I really don't have a lot of things to say. Its  basically a project where I made a demo UI and idea for my tech app.Which is going to in internet soon. This can be used for educational propose not production propose. </p>
 
 <p>Do the following
-pip install pipenv
-pipenv shell
-pip install django
-cd djangochat
-python manage.py runserver
-and go to your browser 
+<ul>
+<li>pip install pipenv</li><br>
+<li>pipenv shell</li><br>
+<li>pip install django</li><br>
+<li>cd djangochat<br></li>
+<li>python manage.py runserver</li><br>
+<li>and go to your browser</li><br>
 and got to <a href="http://127.0.0.1:8000/" target="_blank">http://127.0.0.1:8000/</a>.
-
+<ul>
 
 </p>
