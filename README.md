@@ -7,7 +7,7 @@
 <ul>
 <li>pip install pipenv</li>
 <li>pipenv shell</li>
-<li>pip install django</li>
+<li>pip install -r requirements.txt</li>
 <li>cd djangochat<br></li>
 <li>python manage.py runserver</li>
 <li>and go to your browser</li>
