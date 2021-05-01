@@ -47,3 +47,14 @@ def getMessages(request, room):
 
     messages = Message.objects.filter(room=room_details.id)
     return JsonResponse({"messages": list(messages.values())})
+
+
+firebaseConfig = {
+  'apiKey': "AIzaSyAoQW6yU48FarqiNv1qNPebVkbFBowefmc",
+  'authDomain': "noideachat.firebaseapp.com",
+  'projectId': "noideachat",
+  'storageBucket': "noideachat.appspot.com",
+  'messagingSenderId': "1077739276028",
+  'appId': "1:1077739276028:web:7e5cbacf99e268cdb53979",
+  'measurementId': "G-1CPN156H45"
+}
