@@ -5,10 +5,10 @@
 
 <p>Do the following
 <ul>
-<li>pip install pipenv</li>
+<li>pipe install pipenv</li>
 <li>pipenv shell</li>
 <li>pip install -r requirements.txt</li>
-<li>cd djangochat<br></li>
+<li>cdi djangochat<br></li>
 <li>python manage.py runserver</li>
 <li>and go to your browser</li>
 <li><a href="http://127.0.0.1:8000/" target="_blank">http://127.0.0.1:8000/</a></li>
