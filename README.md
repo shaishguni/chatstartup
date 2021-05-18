@@ -6,6 +6,7 @@
 <p>Do the following
 <ul>
 <li>pip install pipenv</li>
+<li>pipenv install</li>
 <li>pipenv shell</li>
 <li>pip install -r requirements.txt</li>
 <li>cd djangochat<br></li>
