@@ -30,6 +30,7 @@
 ## Contributing
 
 Contributions are always welcome!
+</br>
 To contribute:
 - Request a pull request.
 - Make sure your pull request have some visible changes.
