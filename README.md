@@ -14,7 +14,7 @@
     pip install pipenv
     pipenv shell
     pip install -r requirements.txt
-    cdi djangochat
+    cd djangochat
     python manage.py runserver
     and go to your browser
     http://127.0.0.1:8000/
@@ -30,11 +30,9 @@
 ## Contributing
 
 Contributions are always welcome!
-
-
-Please adhere to this project's `code of conduct`.
-
-  
+To contribute:
+- Request a pull request.
+- Make sure your pull request have some visible changes.
 
   
 ## Features
