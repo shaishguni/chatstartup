@@ -79,7 +79,7 @@ Start the server
   
 ## Tech Stack
 
-**Client:** Html, Css, Javascript
+**Client:** HTML, CSS, Javascript
 
 **Server:** Django
   
